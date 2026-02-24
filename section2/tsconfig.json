@@ -5,7 +5,6 @@
     "outDir": "dist", // 파일 결과 생성할 자바스크립트 코드의 위치
     "strict": true, // 엄격한 타입 검사를 의미하는 옵션
     "moduleDetection": "force", // 자동으로 모든 타입스크립트 파일이 로컬 모듈(독립 모듈)로 취급
-    "strictNullChecks": true, // null 값을 null 타입 이외의 타입의 변수에 할당하는 것을 금지할지 허락할지 여부
     "skipLibCheck": true, // <--- node_modules 체크 안하기.
   },
   "include": ["src"]

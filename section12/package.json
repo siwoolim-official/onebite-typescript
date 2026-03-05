@@ -1,5 +1,5 @@
 {
-  "name": "section11",
+  "name": "section10",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -10,6 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@types/node": "^25.3.3"
+    "@types/node": "^25.3.0"
   }
 }
